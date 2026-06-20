@@ -1,4 +1,5 @@
-namespace bugs
+using Stateless;
+namespace BugPro
 {
     public class Bug
     {
